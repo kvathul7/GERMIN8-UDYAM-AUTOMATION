@@ -1,0 +1,57 @@
+
+UDYAM BUSINESS REGISTRATION - SAMPLE TEST DATA
+
+[ENTREPRENEUR]
+Name: Rahul Kumar
+Date of Birth: 1995-05-15
+
+[BUSINESS]
+Enterprise Name: Rahul Auto Solutions
+Organisation Type: Proprietorship
+Social Category: General
+Gender: Male
+Differently Abled: No
+Date of Commencement: 2023-04-01
+
+[OFFICE ADDRESS]
+Building: No. 12
+Street: Main Road
+Village/Town: BTM Layout
+Block: Bengaluru South
+City: Bengaluru
+District: Bengaluru Urban
+State: Karnataka
+PIN Code: 560076
+Email: rahul@example.com
+Mobile: 9000000000
+
+[PLANT / UNIT DETAILS]
+Number of Units: 1
+Unit Name: Rahul Auto Solutions
+Plant Address: BTM Layout, Bengaluru
+
+[BUSINESS ACTIVITIES]
+Major Activity: Services
+Activity Description: Automobile repair, vehicle maintenance and car modification services
+Existing NIC Code(s), if known: Unknown
+
+[EMPLOYMENT]
+Male: 2
+Female: 1
+Other: 0
+Total: 3
+
+[FINANCIAL INFORMATION]
+Investment in Plant and Machinery / Equipment: 500000
+Turnover: 1200000
+Export Turnover: 0
+Financial Year: 2025-26
+
+[TAX INFORMATION]
+PAN Available: Yes
+GSTIN Available: No
+ITR Filed: Yes
+
+[OTHER]
+Previous Udyam/UAM Registration: No
+Additional Notes: Sample data for software testing only.
